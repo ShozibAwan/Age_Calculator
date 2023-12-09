@@ -4,12 +4,12 @@ A web-based Age Calculator.
 
 # Tools/Libraries
 
-•	npm
-•	Visual Studio Code
-•	HTML
-•	CSS
-•	JavaScript
-•	React.js
+*npm
+*Visual Studio Code
+*HTML
+*CSS
+*JavaScript
+*React.js
 
 
 # ScreenShot
